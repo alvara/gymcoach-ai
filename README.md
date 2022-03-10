@@ -41,7 +41,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Learn More
-You can find more in depth information about the development of this project [here](https://jessealvarado.com/portfolio/gym-ai)
+You can learn more details about the purpose and development of this project [here](https://jessealvarado.com/portfolio/gym-ai)
 
 ## Built With
 
