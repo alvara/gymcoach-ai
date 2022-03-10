@@ -27,11 +27,11 @@
 <div align="center">
   <h1 align="center">GymCoach AI</h1>
   
-  ![ScreenShot](preview.png)
+  <img src="preview.png" width="250">
 
 
   <strong align="center">
-    Guided workouts through artificial intelligence using a chat based interface.
+    Guided gym workouts through artificial intelligence using a chat based interface.
 <br/><br/>
    <a href="https://github.com/alvara/jesse-alvarado-nextjs/issues">Report Bug</a>・
    <a href="https://github.com/alvara/jesse-alvarado-nextjs/issues">Request Feature</a>
