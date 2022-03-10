@@ -37,8 +37,8 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-An in depth description of the project is available [here](https://jessealvarado.com/portfolio/gym-ai)
+## Learn More About the Project
+Read more in depth about the development of this project [here](https://jessealvarado.com/portfolio/gym-ai)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
