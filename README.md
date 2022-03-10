@@ -28,7 +28,7 @@
   <h1 align="center">GymCoach AI</h1>
   
   <img src="preview.png" width="250">
-
+  <br />
 
   <strong align="center">
     Guided gym workouts through artificial intelligence using a chat based interface.
