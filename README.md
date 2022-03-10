@@ -27,7 +27,7 @@
 <div align="center">
   <h1 align="center">GymCoach AI</h1>
   
-  <img src="preview.png" width="250">
+  <img src="preview.png" width="400">
   <br />
 
   <strong align="center">
