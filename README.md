@@ -15,6 +15,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -24,35 +25,31 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">GymCoach AI</h3>
+  <h1 align="center">GymCoach AI</h1>
+  
   ![ScreenShot](preview.png)
 
 
-  <p align="center">
-    An AI chatbot that guides a user's workout through a simple chat interface.
-
-   <br />
-    ·
-   <a href="https://github.com/alvara/jesse-alvarado-nextjs/issues">Report Bug</a>
+  <strong align="center">
+    Guided workouts through artificial intelligence using a chat based interface.
+<br/><br/>
+   <a href="https://github.com/alvara/jesse-alvarado-nextjs/issues">Report Bug</a>・
    <a href="https://github.com/alvara/jesse-alvarado-nextjs/issues">Request Feature</a>
-  </p>
+  </strong>
 </div>
+<hr>
 
 <!-- ABOUT THE PROJECT -->
-## Learn More About the Project
-Read more in depth about the development of this project [here](https://jessealvarado.com/portfolio/gym-ai)
+## Learn More
+You can find more in depth information about the development of this project [here](https://jessealvarado.com/portfolio/gym-ai)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-### Built With
+## Built With
 
 This project was built with the following technology:
 
 * Chat AI powered by [GPT-3](https://openai.com/)
 * Styled with [Bootstrap](https://getbootstrap.com)
 * Deployed on [Heroku](https://heroku.com/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## How to Get Started
 1. Clone this repository
@@ -72,17 +69,12 @@ Note that you will need to create your own account to access GPT-3's API.
 Distributed under the MIT License.
 * [View licenses](https://choosealicense.com)
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact Developer
 
 Jesse Alvarado - contact@jessealvarado.com
 
 My Site: [jessealvarado.com](https://jessealvarado.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
