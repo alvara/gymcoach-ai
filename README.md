@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <h3 align="center">GymCoach AI</h3>
-  ![App Preview](https://github.com/alvara/gymcoach-ai/blob/master/preview.png)
+  ![ScreenShot](preview.png)
 
 
   <p align="center">
