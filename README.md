@@ -33,8 +33,8 @@
   <strong align="center">
     Guided gym workouts through artificial intelligence using a chat based interface.
 <br/><br/>
-   <a href="https://github.com/alvara/jesse-alvarado-nextjs/issues">Report Bug</a>・
-   <a href="https://github.com/alvara/jesse-alvarado-nextjs/issues">Request Feature</a>
+   <a href="https://github.com/alvara/gymcoach-ai/issues">Report Bug</a>・
+   <a href="https://github.com/alvara/gymcoach-ai/issues">Request Feature</a>
   </strong>
 </div>
 <hr>
